@@ -20,6 +20,8 @@ git clone git@github.com:bwengren/bryspark.git
 
 ## Directory Structure
 
-  * `scss/app.scss`: The app SCSS file. (Note: Without the component SCSS directory, you will not be able to compile the CSS).
-  * `scss/_settings.scss`: Global overrides and custoemr styles
+  * `scss/app.scss`
+  ** The app SCSS file. (Note: Without the component SCSS directory, you will not be able to compile the CSS).
+  * `scss/_settings.scss`
+  ** Global overrides and custom styles.
 
