@@ -18,8 +18,11 @@ git clone git@github.com:bwengren/bryspark.git
 
 ## Directory Structure
 
-  * `scss/app.scss`
-  	* The app SCSS file. (Note: Without the component SCSS directory, you will not be able to compile the CSS).
-  * `scss/_settings.scss`
-  	* This is where all the cool stuff happens, namely overrides and custom styles.
+  - `scss/app.scss`
+  	- The app SCSS file. This compiles into app.css and app.min.css
+  	- **IMPORTANT** Without the component SCSS directory (which is not included in this repo), you will not be able to compile the CSS.
+  - `scss/_icons.scss`
+  	- Intializes the custom SVG icon fonts for the app (because we don't uses images or sprites).
+  - `scss/_settings.scss`
+  	- This is where all the cool stuff happens, namely overrides and custom styles.
 
