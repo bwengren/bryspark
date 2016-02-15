@@ -6,7 +6,7 @@ This project contains a style guide and proof of concept for this upcoming oppor
 
 **An open mind**. This is **not** meant to be an exact replica of any certain screen/ app, so don't get confused by that.
 
-This was the first pass at cleaning up the UI for the existing application(s), brining an updated look and feel to the overall platform, remove some of the "weight". It was also the first pass at realigning the menu structure, trying to minimize the amount of "clicks it takes the get the center of a Tootsie Roll pop".
+This was the first pass at cleaning up the UI for the existing application(s), brining an updated look and feel to the overall platform, removing some of the "weight" of the current apps. It was also the first pass at realigning the menu structure, trying to minimize the amount of "clicks it takes the get the center of a Tootsie Roll pop". This can be seen in "poc.html".
 
 [Demo](http://www.soada.org/bryspark)
 
