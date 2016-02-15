@@ -1,0 +1,45 @@
+@import
+	"icons",
+	"settings",
+	"foundation/components/global",
+	"foundation/components/button-groups",
+	"foundation/components/buttons",
+	"foundation/components/forms",
+	"foundation/components/reveal",
+	"foundation/components/tables",
+	"foundation/components/top-bar",
+	"foundation/components/type",
+	"foundation/components/visibility";
+
+
+// WIP
+div.scroll-table {
+	width: calc(100% - 203px);
+	overflow-x:scroll;
+	margin-left:203px;
+	overflow-y:visible;
+
+	table {border-left: 0}
+
+	td {
+	    white-space:nowrap;
+	}
+
+	// Delete this
+	.long {letter-spacing:1em; }
+
+	td:nth-of-type(1), th:nth-of-type(1){
+	    position:absolute;
+	    width:200px;
+	    left:0.9375rem;
+	    top:auto;
+	    border: 1px solid white;
+	 }
+}
+.even-row {
+	background-color: #f5f5f5;
+}
+.odd-row {
+	background-color: #fff;
+}
+
