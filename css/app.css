@@ -332,6 +332,10 @@ footer [class^="icon-"].disabled, footer [class*=" icon-"].disabled {
   color: #c8c8c8;
 }
 
+footer [class^="icon-"] + a, footer [class*=" icon-"] + a {
+  color: #343434;
+}
+
 footer.sticky-footer {
   position: fixed;
   bottom: 0;
