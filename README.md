@@ -22,7 +22,7 @@ git clone git@github.com:bwengren/bryspark.git
   - `/index.html`
   	- Style Guide, visiual proof of concept (not wired into any JavaScript)
   - `/poc.html`
-  	- Functional proof of concept
+  	- Functional proof of concept. Poke around. Most things are wired up.
 
 ###### SCSS
   - `scss/app.scss`
