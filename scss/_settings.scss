@@ -1,6 +1,31 @@
 // Initialize font(s)
 
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:700,400,300);
+//@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:700,400,300);
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Semibold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Semibold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
 
 // Colors
 
