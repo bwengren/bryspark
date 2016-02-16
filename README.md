@@ -8,7 +8,7 @@ This project contains a style guide and proof of concept for this upcoming oppor
 
 This was the first pass at cleaning up the UI for the existing application(s), brining an updated look and feel to the overall platform, removing some of the "weight" of the current apps. It was also the first pass at realigning the menu structure, trying to minimize the amount of "clicks it takes the get the center of a Tootsie Roll pop". This can be seen in "poc.html".
 
-[Demo](http://www.soada.org/bryspark)
+[Demo](http://www.soada.org/bryspark_demo)
 
 ## Quickstart
 
@@ -22,7 +22,7 @@ git clone git@github.com:bwengren/bryspark.git
   - `/index.html`
   	- Style Guide, visiual proof of concept (not wired into any JavaScript)
   - `/poc.html`
-  	- Functional proof of concept. Poke around. Most things are wired up. The "John Smith" button is really cool. 
+  	- Functional proof of concept. Poke around. Most things are wired up. The "John Smith" button is really cool.
 
 ###### SCSS
   - `scss/app.scss`
