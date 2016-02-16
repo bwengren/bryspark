@@ -1,3 +1,11 @@
+// Initialize F5
+$(document).foundation();
+
+// Scroll to the top of the page
+$( "#top").on('click', function() {
+  $('html, body').animate({ scrollTop: 0 }, 'slow');
+});
+
 // Highlight selected table row
 $("tbody tr").on('click', function() {
     $(this).toggleClass('selected').siblings().removeClass('selected');
